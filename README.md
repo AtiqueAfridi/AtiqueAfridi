@@ -32,15 +32,4 @@ I believe in **educating machines** not just to perform tasks, but to **reason**
 
 ---
 
-## 📫 Let's Connect
-
-I'm always open to meaningful conversations about AI, automation, and the future of technology.  
-Feel free to reach out or follow my work:
-
-- [LinkedIn](#) <!-- (insert your LinkedIn URL) -->
-- [GitHub](https://github.com/yourusername)  
-- [Email](mailto:your.email@example.com)
-
----
-
 *“Machines may not dream yet, but we can teach them how to think.”*
