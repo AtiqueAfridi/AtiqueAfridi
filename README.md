@@ -30,7 +30,3 @@ I believe in **educating machines** not just to perform tasks, but to **reason**
 - **Frameworks**: PyTorch, TensorFlow, Scikit-learn  
 - **Platforms**: AWS, Docker, Kubernetes  
 - **Other**: CI/CD for ML, Model Monitoring, Data Engineering
-
----
-
-*“Machines may not dream yet, but we can teach them how to think.”*
