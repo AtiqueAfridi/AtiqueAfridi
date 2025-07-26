@@ -1,16 +1,46 @@
-### Hi there 👋
+# 👋 Hi, I'm Atique Abdullah
 
-<!--
-**AtiqueAfridi/AtiqueAfridi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Science in Computer Science**  
+💼 **Machine Learning Engineer**  
+🤖 **Educating Machines to Understand, Predict, and Automate**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧠 About Me
 
+I'm Atique Abdullah — a Machine Learning Engineer with a strong foundation in computer science and a deep curiosity for intelligent systems. I specialize in building end-to-end ML solutions that go beyond academic prototypes — systems that scale, adapt, and create real-world impact.
+
+I believe in **educating machines** not just to perform tasks, but to **reason**, **optimize**, and **continuously improve**. Whether it's through deep learning, classical ML, or automation pipelines, my work focuses on making machines think a little smarter every day.
+
+---
+
+## 💡 What I Do
+
+- Design and deploy ML models in production
+- Build intelligent automation pipelines (MLOps + RPA)
+- Solve problems using data, not guesswork
+- Keep learning — always
+
+---
+
+## 🛠️ Tools & Tech
+
+- **Languages**: Python, SQL, Bash  
+- **Frameworks**: PyTorch, TensorFlow, Scikit-learn  
+- **Platforms**: AWS, Docker, Kubernetes  
+- **Other**: CI/CD for ML, Model Monitoring, Data Engineering
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to meaningful conversations about AI, automation, and the future of technology.  
+Feel free to reach out or follow my work:
+
+- [LinkedIn](#) <!-- (insert your LinkedIn URL) -->
+- [GitHub](https://github.com/yourusername)  
+- [Email](mailto:your.email@example.com)
+
+---
+
+*“Machines may not dream yet, but we can teach them how to think.”*
