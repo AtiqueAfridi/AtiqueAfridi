@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Atique Abdullah
 “Machines may not dream yet, but we can teach them how to think.”
 
-🎓 **Bachelor of Science in Computer Science**  
+🎓 **Master’s in Data Science**  
 💼 **Machine Learning Engineer**  
 🤖 **Educating Machines to Understand, Predict, and Automate**
 
