@@ -9,8 +9,7 @@
 
 ## 🧠 About Me
 
-I'm Atique Abdullah — a Machine Learning Engineer with a strong foundation in computer science and a deep curiosity for intelligent systems. I specialize in building end-to-end ML solutions that go beyond academic prototypes — systems that scale, adapt, and create real-world impact.
-
+I'm Atique Abdullah — a Senior Machine Learning Engineer with 5 years of hands-on experience in the complete life cycle of ML model development. Expertise in designing, training, and deploying deep learning models in NLP and computer vision using Python, PyTorch, and TensorFlow. Skilled in building scalable ML pipelines and infrastructure for deploying predictive models and automated systems into production environments. Successfully translated complex business requirements into robust, high-availability AI solutions.
 I believe in **educating machines** not just to perform tasks, but to **reason**, **optimize**, and **continuously improve**. Whether it's through deep learning, classical ML, or automation pipelines, my work focuses on making machines think a little smarter every day.
 
 ---
